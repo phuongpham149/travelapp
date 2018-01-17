@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="@dimen/margin_medium"
+    android:layout_marginStart="@dimen/margin_medium"
+    android:orientation="horizontal">
+
+    <View style="@style/ViewStyle" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/margin_log_in_line"
+        android:layout_marginStart="@dimen/margin_log_in_line"
+        android:layout_marginTop="@dimen/margin_small_log_in"
+        android:alpha="@dimen/alpha_log_in_line"
+        android:text="@string/log_in_text_in_line"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_size_small" />
+
+    <View style="@style/ViewStyle" />
+
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_small"
+        android:text="@string/all_log_in"
+        android:textColor="@color/color_text"
+        android:textSize="@dimen/text_size_medium" />
+
+    <EditText
+        android:id="@+id/edt_username"
+        style="@style/EditTextStyle"
+        android:layout_below="@+id/txt_title"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:drawableStart="@drawable/ic_username"
+        android:hint="@string/all_user_name" />
+
+    <EditText
+        android:id="@+id/edt_password"
+        style="@style/EditTextStyle"
+        android:layout_below="@+id/edt_username"
+        android:layout_marginTop="@dimen/margin_small_log_in"
+        android:drawableStart="@drawable/ic_password"
+        android:hint="@string/all_password"
+        tools:ignore="TextFields" />
+
+    <EditText
+        android:id="@+id/edt_retype_password"
+        style="@style/EditTextStyle"
+        android:layout_below="@+id/edt_password"
+        android:layout_marginTop="@dimen/margin_small_log_in"
+        android:drawableStart="@drawable/ic_password"
+        android:hint="@string/all_retype_password"
+        tools:ignore="TextFields" />
+
+    <EditText
+        android:id="@+id/edt_email"
+        style="@style/EditTextStyle"
+        android:layout_below="@+id/edt_retype_password"
+        android:layout_marginTop="@dimen/margin_small_log_in"
+        android:drawableStart="@drawable/ic_email"
+        android:hint="@string/all_email" />
+
+    <Button
+        android:id="@+id/btn_log_in"
+        style="@style/ButtonStyle.Form.Submit"
+        android:layout_below="@+id/edt_email"
+        android:text="@string/all_log_in" />
+</merge>

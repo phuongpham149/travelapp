@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- generic size -->
+    <dimen name="margin_medium">16.7dp</dimen>
+    <dimen name="margin_small">14dp</dimen>
+    <dimen name="text_size_small">9.3sp</dimen>
+    <dimen name="text_size_very_small">8sp</dimen>
+    <dimen name="text_size_medium">10.7sp</dimen>
+    <dimen name="text_size_large">13.3sp</dimen>
+    <dimen name="text_size_xlarge">16sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="radius_shape">5.3dp</dimen>
+    <dimen name="width_medium">190dp</dimen>
+    <dimen name="height_medium">33.3dp</dimen>
+    <dimen name="stroke_border">0.7dp</dimen>
+    <!-- edittext -->
+    <dimen name="padding_left_edt">8.7dp</dimen>
+    <dimen name="drawable_padding_edt">16dp</dimen>
+    <!-- button submit -->
+    <dimen name="margin_bottom_btn_submit">13dp</dimen>
+    <!-- splash screen -->
+    <dimen name="margin_top_splash_title">43dp</dimen>
+    <dimen name="width_splash_button">100dp</dimen>
+    <dimen name="margin_bottom_splash_button">30dp</dimen>
+    <dimen name="height_splash_button">34.7dp</dimen>
+    <dimen name="alpha_splash_button">0.25</dimen>
+    <!-- log in screen -->
+    <dimen name="margin_small_log_in">11dp</dimen>
+    <dimen name="alpha_log_in_background">0.74</dimen>
+    <dimen name="margin_top_log_in_form">118dp</dimen>
+    <dimen name="margin_log_in_line">7dp</dimen>
+    <dimen name="alpha_log_in_line">0.3</dimen>
+    <!-- register form -->
+    <dimen name="margin_top_register_form">31.3dp</dimen>
+</resources>

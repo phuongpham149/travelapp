@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- button facebook -->
+    <color name="color_start_background">#303d99</color>
+    <color name="color_end_background">#3478b9</color>
+    <!-- button submit -->
+    <color name="color_btn_submit">#fa2a00</color>
+    <!-- edittext -->
+    <color name="color_border_edt">#32a8b6c8</color>
+    <!-- text -->
+    <color name="color_text">#323b45</color>
+    <!-- splash screen -->
+    <color name="color_btn_splash">#000000</color>
+    <!-- login and sign up screen -->
+    <color name="background_dark">#292929</color>
+</resources>

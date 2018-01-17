@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">travel-app</string>
+    <!-- generic strings -->
+    <string name="all_log_in">Log In</string>
+    <string name="all_sign_up">Sign Up</string>
+    <string name="all_user_name">Username</string>
+    <string name="all_password">Password</string>
+    <string name="all_retype_password">Re-type password</string>
+    <string name="all_email">Email</string>
+    <string name="all_continue_with_fb">Continue with Facebook</string>
+    <!-- splash screen -->
+    <string name="splash_title">Explore</string>
+    <string name="splash_description">new amazing country</string>
+    <!-- login screen -->
+    <string name="log_in_text_in_line">Or</string>
+    <!-- register screen -->
+    <string name="register_button">Create account</string>
+</resources>
